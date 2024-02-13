@@ -1,6 +1,6 @@
-Backend : SpringBoot
-Frontend : AngularJs
-Database : Mysql
+* Backend : SpringBoot
+* Frontend : AngularJs
+* Database : Mysql
 
 # Home Page
 ![homepage.png](ss%2Fhomepage.png)
